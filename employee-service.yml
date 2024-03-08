@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: EMPLOYEE-SERVICE
-  
   datasource:
     url: jdbc:mysql://localhost:3306/employee_db
     username: root
