@@ -1,6 +1,6 @@
 spring:
   boot:
-    message: "Hello Rajasekhar this is department-service"
+    message: "Hello Rajasekhar this is department-service updated"
   datasource:
     url: jdbc:mysql://localhost:3306/department_db
     username: root
