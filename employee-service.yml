@@ -1,4 +1,8 @@
 spring:
+  security:
+    user:
+      name: raj
+      password: 12345
   datasource:
     url: jdbc:mysql://localhost:3306/employee_db
     username: root
