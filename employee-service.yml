@@ -22,3 +22,6 @@ application:
   security:
     jwt:
       secret-key: "463acbfe899899b42511b4f404593cf8118b194bc4306826af847c8babdaa9e9"
+      expiration: 86400000
+        refresh-token:
+          expiration: 604800000
